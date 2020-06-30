@@ -1,5 +1,5 @@
 {
-  "name": "imap-simple",
+  "name": "epsitec-imap-simple",
   "version": "5.0.0",
   "description": "Wrapper over node-imap, providing a simpler api for common use cases",
   "main": "index.js",
@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chadxz/imap-simple.git"
+    "url": "https://github.com/epsitec-sa/imap-simple.git"
   },
   "engines": {
     "node": ">=6"
